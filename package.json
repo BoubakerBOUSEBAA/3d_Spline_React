@@ -1,0 +1,35 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "Scene exported with Spline",
+  "main": "main.jsx",
+  "repository": "git@github.com:BoubakerBOUSEBAA/3d_Spline_React.git",
+  "author": "Boubaker BOUSEBAA <boubakerbousebaa@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "spline",
+    "three.js"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-decorators": "7.21.0",
+    "@gerhobbelt/babel-plugin-proposal-decorators": "7.2.1-26",
+    "@splinetool/react-spline": "^2.2.1",
+    "@splinetool/runtime": "^0.9.366",
+    "babel-install": "2.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "5.3.9"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^3.1.0-beta.0",
+    "vite": "^4.1.0-beta.1"
+  }
+}
+
